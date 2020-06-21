@@ -9,6 +9,9 @@ This is a machine learning metrics visualizer tool for binary and multi-class cl
 For Binary classification, Confusion Matrix, ROC Curve and Precision Recall curves can be visualized. 
 For multi-class classification, only Confusion Matrix can be visualized.
 
+# Guidelines if facing problems to open site
+The app uses one heroku dyno, so it faces loading issues sometimes. Once you go to the site, and it shows connecting, but doesn't open after 15 to 20s, then simply reload the site. Once it shows connecting, open some other pre-opened tab of the browser window. Then come back to the site after 5 to 6 secs. It will open by then.
+
 # Working
 1. Upload a .csv file.
 2. The 1st column should contain the labels and every column should have a header. 
@@ -23,3 +26,4 @@ To view your data select "Show Raw data" option.
 
 # Default
 By default UCL mushrooms dataset is loaded.
+
