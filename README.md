@@ -5,7 +5,9 @@ https://machine-learning-visualizer.herokuapp.com/
 Avishek Garain
 
 # Machine Learning Visualizer Tool 
-This is a machine learning metrics visualizer tool for binary classification data.
+This is a machine learning metrics visualizer tool for binary and multi-class classification of data.
+For Binary classification, Confusion Matrix, ROC Curve and Precision Recall curves can be visualized. 
+For multi-class classification, only Confusion Matrix can be visualized.
 
 # Working
 1. Upload a .csv file.
