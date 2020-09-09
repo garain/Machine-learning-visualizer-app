@@ -1,6 +1,6 @@
 # App link [![HitCount](http://hits.dwyl.com/garain/Machine-learning-visualizer-app.svg)](http://hits.dwyl.com/garain/Machine-learning-visualizer-app)
 
-https://machine-learning-visualizer.herokuapp.com/
+[Link to app](https://garain.vision/Authentication/mlvisualize)
 
 # Creator
 Avishek Garain
